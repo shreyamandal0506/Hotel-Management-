@@ -1,1 +1,3 @@
-# Hotel-Management-
+# Hotel-Management-Hotel Management System using OOP
+The Hotel Management System is a Java-based application developed using Object-Oriented Programming concepts to manage hotel operations efficiently. The system allows users to book rooms, store customer details, order food, generate bills, check room availability, and cancel bookings through a menu-driven interface.
+The project uses advanced Java concepts such as Classes & Objects, Inheritance, Interfaces, ArrayList, File Handling, Multithreading, and Exception Handling. Customer and booking data are stored using file handling so that records are not lost after restarting the program. A separate thread is used for file-writing operations to improve performance. Custom exceptions are also implemented to prevent duplicate room bookings and handle invalid operations effectively.
